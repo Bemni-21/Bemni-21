@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Developer | Software Engineer 🇪🇹</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Open-Source+Customization;AI+Integration+%7C+Web+Development" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Open-Source+Customization;AI+Integration+%7C+Web+Development" alt="Typing animation"/>
 </p>
 
 <p align="center">
@@ -105,13 +105,3 @@ Exploring AI integration in modern web applications.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bemni-21&show_icons=true&theme=github_dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bemni-21&layout=compact&theme=github_dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" alt="Most used programming languages"/>
-</p>
-
-<p align="center">
-  <img width="85%" src="https://streak-stats.demolab.com?user=Bemni-21&theme=dark&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&hide_border=true" alt="GitHub contribution streak"/>
-</p>
